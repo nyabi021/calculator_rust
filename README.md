@@ -1,1 +1,1 @@
-# calculator_rust
+# Rust Calculator
