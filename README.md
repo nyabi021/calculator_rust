@@ -1,1 +1,1 @@
-# simple_calculator_cli
+# calculator_rust
